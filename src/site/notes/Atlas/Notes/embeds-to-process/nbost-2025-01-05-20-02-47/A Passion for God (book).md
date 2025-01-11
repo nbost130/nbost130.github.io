@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/embeds-to-process/nbost-2025-01-05-20-02-47/a-passion-for-god-book/","title":"A Passion for God","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/atlas/notes/embeds-to-process/nbost-2025-01-05-20-02-47/a-passion-for-god-book/","title":"A Passion for God"}
 ---
 
 #book #Romans  
