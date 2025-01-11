@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/god-guides/litany-of-holy-fear/","tags":["prayer","Litany","gardenEntry"]}
+{"dg-publish":true,"permalink":"/atlas/notes/god-guides/litany-of-holy-fear/","tags":["prayer","Litany","gardenEntry","gardenEntry"]}
 ---
 
 Yahweh your Holy Fear is the beginning of wisdom.
