@@ -7,7 +7,7 @@
 [[Atlas/Maps/Concepts Map\|Concepts Map]]
 [[Atlas/Maps/Interests\|Interests]]
 [[Atlas/Maps/Pursuit of Truth\|Pursuit of Truth]]
-[[Roam Notes/Parked\|Parked]] <- need to set this up again. Test
+[[Roam Notes/Parked\|Parked]] <- need to set this up again.
 #### Personal
 [[Atlas/Maps/To Be\|To Be]]
 [[+/Priorities\|Priorities]]
