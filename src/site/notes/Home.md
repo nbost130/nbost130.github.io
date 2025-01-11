@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":".md","permalink":"//","tags":["gardenEntry"]}
 ---
 
 [[Atlas/Maps/SOPs\|SOPs]]
